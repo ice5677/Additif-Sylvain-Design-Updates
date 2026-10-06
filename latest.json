@@ -1,0 +1,11 @@
+{
+  "version": "0.4.9",
+  "notes": "Additif Sylvain Design 0.4.9",
+  "pub_date": "2026-10-06T20:30:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZitRS1hjN1ZUM0NUYTBZeUtXZXo0em9DSEhhUmx3WHlNenJsN0lPOU9ndFhlbEtWZ0YrWG9YMGNFOW0SG1NbGhqZURCc05sWmo2K2Q1cTVNWjkvUUtqd2ZMVUorYVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE4NDYwCWZpbGU6QWRkaXRpZiBTeWx2YWluIERlc2lnbl8wLjQuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjkKNjNxQ2F4M3JSSkg3V2xaTTB5bzhSUVlPQ2E1azlyY2tldHFWSFRHRU9hUjh3aGYxL1N6YmpJbWg1c2FSa28rYmlwaExCN2RRbkl4ZVhKYUk2T3FIQmc9PQo=",
+      "url": "https://github.com/ice5677/Additif-Sylvain-Design-Updates/releases/download/V0.4.9/Additif.Sylvain.Design_0.4.9_x64-setup.exe"
+    }
+  }
+}
