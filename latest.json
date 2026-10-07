@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Additif Sylvain Design 0.5.0",
-  "pub_date": "2026-10-07T11:29:19Z",
+  "version": "0.5.2",
+  "notes": "Additif Sylvain Design 0.5.2",
+  "pub_date": "2026-10-07T18:35:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZitRS1hjN1ZUM1BERXF0ZXNuNVFlaml1T0JzOHVaU2wrbW13WGRCdHNwa09HN0E1dlQrNFNqSUdVSERoUFhld2FzQU1DWTFQSEtyT1EyMWxWa0lQS1A4ZE9JaVRPYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzcyNTExCWZpbGU6QWRkaXRpZiBTeWx2YWluIERlc2lnbl8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKTktTZHlKUWp3Q0ZKeUtBK1FoUFVvTFRCZE9CVm5JcS84dUVNVHFQSDdiTnlKWnZ5Qi9uR25GNHo3U1BTeFRXN0tUNjU4ck5XRXd1amxRcXJXWHQzRGc9PQo=",
-      "url": "https://github.com/ice5677/Additif-Sylvain-Design-Updates/releases/download/V0.5.0/Additif.Sylvain.Design_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZitRS1hjN1ZUM0NhZG9UK1h5c2toUjhRdHhIUjJmTkV1L3NGSnkwWEc5bWJqdDZmM1psWUtOV1dWOXlza3Q5L0I0R0xBcm1URUVScGwxWU1RYUpkR28vZlZwRjBZRGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzkzOTEwCWZpbGU6QWRkaXRpZiBTeWx2YWluIERlc2lnbl8wLjUuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjIKWTI5elZnVkM5TENTbVVhTmVmQnpOQmNFT3BvQjV4RTJwMXpGcWlFdWhDQ2x5cWFrbmxvWHFMZ0E0a2lsb2FtRHJMTmg3dGVwUUtRTmlUejVTMCswQmc9PQo=",
+      "url": "https://github.com/ice5677/Additif-Sylvain-Design-Updates/releases/download/V0.5.2/Additif.Sylvain.Design_0.5.2_x64-setup.exe"
     }
   }
 }
